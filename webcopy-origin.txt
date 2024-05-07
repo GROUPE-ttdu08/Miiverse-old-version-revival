@@ -1,0 +1,308 @@
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.eot?
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\includes\fonts\Iconochive-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.eot?-ccsheb
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\includes\fonts\Iconochive-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.svg?-ccsheb
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\includes\fonts\Iconochive-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.ttf?-ccsheb
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\includes\fonts\Iconochive-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\includes\fonts\Iconochive-Regular.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic|Roboto:300,300italic,400,400italic,700,700italic|Raleway:300,300italic,400,400italic,700,700italic|Montserrat:300,300italic,400,400italic,700,700italic&display=swap
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\raleway\v34\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v34/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\raleway\v34\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://ghost-ttdu08-server.alwaysdata.net/thank_you.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\thank_you.png
+Content Type: image/png
+
+Uri: https://ghost-ttdu08-server.alwaysdata.net/thank_you_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\thank_you_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://miiverse-08.e-monsite.com/
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\index.htm
+Content Type: text/html
+
+Uri: https://miiverse-08.e-monsite.com/about/legal/
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\about\legal\index.htm
+Content Type: text/html
+
+Uri: https://miiverse-08.e-monsite.com/medias/images/image-2022-01-13-212230.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\images\image-2022-01-13-212230.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/images/ttdu08-free-file.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\images\ttdu08-free-file.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/site/favicon/logo-melange.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\site\favicon\logo-melange.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/im/tryme/ems-tryme-illustration.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\im\tryme\ems-tryme-illustration.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/js/rgpd-cookies/jquery.rgpd-cookies.js?v=1419
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\js\rgpd-cookies\jquery.rgpd-cookies.js
+Content Type: application/javascript
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/manager/agendaculturel.fr/im/footerems-ac.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\manager\agendaculturel.fr\im\footerems-ac.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/manager/e-monsite.com/im/footerems-ems.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\manager\e-monsite.com\im\footerems-ems.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/manager/madate.fr/im/madate-logo.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\manager\madate.fr\im\madate-logo.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/manager/wuro.fr/im/footerems-wuro.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\manager\wuro.fr\im\footerems-wuro.png
+Content Type: image/png
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/js/bootstrap.min.js?v=31012023
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/js/jquery-3.6.3.min.js?v=26012023
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\js\jquery-3.6.3.min.js
+Content Type: application/javascript
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/js/popper.min.js?v=31012023
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Outlined.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Outlined.ttf
+Content Type: font/ttf
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Outlined.woff
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Outlined.woff
+Content Type: font/woff
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Outlined.woff2
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Outlined.woff2
+Content Type: font/woff2
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Round.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Round.ttf
+Content Type: font/ttf
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Round.woff
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Round.woff
+Content Type: font/woff
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Round.woff2
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Round.woff2
+Content Type: font/woff2
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Sharp.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Sharp.ttf
+Content Type: font/ttf
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Sharp.woff
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Sharp.woff
+Content Type: font/woff
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-Sharp.woff2
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-Sharp.woff2
+Content Type: font/woff2
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-TwoTone.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-TwoTone.ttf
+Content Type: font/ttf
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-TwoTone.woff
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-TwoTone.woff
+Content Type: font/woff
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons-TwoTone.woff2
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons-TwoTone.woff2
+Content Type: font/woff2
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons.ttf
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons.ttf
+Content Type: font/ttf
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons.woff
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons.woff
+Content Type: font/woff
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/material-icons/font/MaterialIcons.woff2
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\material-icons\font\MaterialIcons.woff2
+Content Type: font/woff2
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.eot?21477644
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.svg?21477644
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.ttf?21477644
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.woff2?21477644
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://miiverse-08.e-monsite.com/medias/static/themes/bootstrap_v4/social-icons/fontello.woff?21477644
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\static\themes\bootstrap_v4\social-icons\fontello.woff
+Content Type: font/woff
+
+Uri: https://miiverse-08.e-monsite.com/pages/accueil-1715034659.html
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\pages\accueil-1715034659.html
+Content Type: text/html
+
+Uri: https://miiverse-08.e-monsite.com/themes/combined.css?v=6_1642769533_43
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\themes\combined.css
+Content Type: text/css
+
+Uri: https://miiverse-08.e-monsite.com/themes/combined.js?v=6_1642769533_43&lang=fr
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\themes\combined.js
+Content Type: text/javascript
+
+Uri: https://miiverse-08.e-monsite.com/themes/designlines/page/accueil-1715034659.css?v=
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\themes\designlines\page\accueil-1715034659.css
+Content Type: text/css
+
+Uri: https://static.criteo.net/js/ld/publishertag.js
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\js\ld\publishertag.js
+Content Type: text/javascript
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/ePmEqx9t_8AqdWla/iconochive.css?v=qtvMKcIJ
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\share\ePmEqx9t_8AqdWla\iconochive.css
+Content Type: text/css
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/UyR_-OwsyXxl9saJ/3DS First Time Setup - Lost Music.mp3
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\share\UyR_-OwsyXxl9saJ\3DS First Time Setup - Lost Music.mp3
+Content Type: audio/mpeg
+
+Uri: https://ttdu08.freeboxos.fr:22194/share/ZRGZcUUk9xUt99gb/miiverse.css
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\share\ZRGZcUUk9xUt99gb\miiverse.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20180728113150im_/https://i.miiverse.nintendo.net/favicon.ico
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\web\20180728113150im_\https\i.miiverse.nintendo.net\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.e-monsite.com/medias/images/0-890-100-129-couleur.png
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\medias\images\0-890-100-129-couleur.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4VN4372P6E
+File Name: C:\Downloaded Web Sites\miiverse-08.e-monsite.com\gtag\js
+Content Type: application/javascript
+
